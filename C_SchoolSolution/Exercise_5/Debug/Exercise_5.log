@@ -1,6 +1,5 @@
-﻿Build started 31/01/2014 13:07:47.
+﻿Build started 31/01/2014 13:21:31.
      1>Project "D:\School\Jaar 2\Periode 3\C\C_SchoolSolution\Exercise_5\Exercise_5.vcxproj" on node 2 (Rebuild target(s)).
-     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Exercise_5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
          D:\Media\Programs\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Exercise_5a.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt stdafx.c
          stdafx.c
@@ -14,4 +13,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.39
+Time Elapsed 00:00:00.42
