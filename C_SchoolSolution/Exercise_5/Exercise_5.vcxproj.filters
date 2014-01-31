@@ -26,10 +26,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercise_5.c">
+    <ClCompile Include="stdafx.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="stdafx.c">
+    <ClCompile Include="Exercise_5a.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
